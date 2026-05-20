@@ -1,0 +1,19 @@
+,HRP+Glasso+Meta+Kelly+Regime,Naive Top-N Equal Weight,Equal Weight Market
+Annual Return,13.07%,16.41%,9.24%
+Total Return,82.08%,109.85%,53.86%
+Annual Volatility,20.74%,17.82%,13.49%
+Max Drawdown,-23.30%,-25.69%,-20.21%
+Sharpe Ratio,0.534,0.809,0.536
+Sortino Ratio,0.719,1.119,0.676
+Calmar Ratio,0.561,0.639,0.457
+Win Rate,54.0%,54.4%,54.9%
+Profit Factor,1.130,1.178,1.138
+VaR (95%),-2.109%,-1.803%,-1.498%
+CVaR (95%),-3.142%,-2.672%,-2.136%
+Beta,1.176,1.203,1.000
+Jensen's Alpha,3.331%,5.467%,-0.000%
+Information Ratio,0.346,0.898,N/A
+Tracking Error,13.563%,7.841%,0.000%
+Deflated Sharpe,0.520,0.788,0.523
+Sharpe p-value,0.0000,0.0000,0.0000
+Observations,1229,1229,1229

@@ -1,0 +1,15 @@
+{
+  "Strategy": "HRP+Glasso+Meta+Kelly+Regime",
+  "Sharpe_Ratio": 0.5340216144648067,
+  "Deflated_Sharpe": 0.52022883037639,
+  "Sharpe_pvalue": 0.0,
+  "Beta": 1.176216316540931,
+  "Jensen_Alpha": 0.03330527856609174,
+  "Information_Ratio": 0.3462356180740592,
+  "Tracking_Error": 0.13562563653731846,
+  "Annual_Return": 0.1307411761547974,
+  "Annual_Vol": 0.20737208598903167,
+  "Max_Drawdown": -0.2330284922910427,
+  "Profit_Factor": 1.129610793317809,
+  "Win_Rate": 0.5402766476810414
+}

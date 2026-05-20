@@ -1,0 +1,4 @@
+Strategy,Annual Return,Annual Vol,Sharpe,Sortino,Max Drawdown,Calmar,Win Rate,Profit Factor,VaR 95%,CVaR 95%,Total Return,N Days
+HRP + Meta + Kelly + Regime,14.44%,20.74%,0.697,0.938,-23.30%,0.620,54.0%,1.130,-2.109%,-3.142%,82.08%,1229
+Naive Top-N Equal Weight,16.79%,17.82%,0.942,1.304,-25.69%,0.654,54.4%,1.178,-1.803%,-2.672%,109.85%,1229
+Equal Weight Market,9.75%,13.49%,0.723,0.910,-20.21%,0.482,54.9%,1.138,-1.498%,-2.136%,53.86%,1229

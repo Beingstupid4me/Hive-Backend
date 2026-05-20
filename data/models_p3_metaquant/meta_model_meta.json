@@ -1,0 +1,33 @@
+{
+  "meta_model_type": "logistic_regression",
+  "meta_features": [
+    "alpha_signal",
+    "alpha_abs_signal",
+    "alpha_direction",
+    "vol_sigma",
+    "mkt_vol_proxy",
+    "rel_vol",
+    "atr_norm_14",
+    "vol_63",
+    "xs_z_vol_63",
+    "vol_21",
+    "xs_z_vol_21",
+    "mom_252",
+    "ma_ratio_200",
+    "mom_126",
+    "xs_rank_mom_126",
+    "price_zscore_252",
+    "vol_10",
+    "ma_ratio_100",
+    "rsi_28",
+    "mkt_dm_mom_63",
+    "mom_63"
+  ],
+  "p_success_threshold": 0.55,
+  "test_auc": 0.5025562211567964,
+  "test_brier": 0.2515207839934876,
+  "upper_multiplier": 1.5,
+  "lower_multiplier": 1.0,
+  "vertical_barrier": 5,
+  "vol_window": 21
+}

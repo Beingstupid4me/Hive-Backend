@@ -1,0 +1,24 @@
+{
+  "n_regimes": 3,
+  "regime_names": {
+    "0": "Bull",
+    "1": "Transition",
+    "2": "Bear"
+  },
+  "hmm_features": [
+    "rolling_vol_21",
+    "rolling_ret_21",
+    "vol_ratio",
+    "xs_vol_dispersion",
+    "drawdown"
+  ],
+  "hmm_log_likelihood": -10536.516872495995,
+  "hmm_converged": true,
+  "gmm_bic_optimal_n": 6,
+  "hmm_gmm_agreement": 0.5777991658646134,
+  "state_vol_mapping": {
+    "1": 0.09262658061377772,
+    "0": 0.14850403598114248,
+    "2": 0.2956033612449989
+  }
+}

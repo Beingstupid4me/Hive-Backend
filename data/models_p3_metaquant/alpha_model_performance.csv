@@ -1,0 +1,6 @@
+model,Annual Return,Annual Volatility,Sharpe Ratio,Sortino Ratio,Max Drawdown,Calmar Ratio,Win Rate,Profit Factor,VaR (95%),CVaR (95%)
+pred_lgb_momentum,18.44%,29.42%,0.627,0.913,-64.50%,0.286,53.3%,1.112,-2.826%,-4.181%
+pred_lgb_volatility,15.27%,25.66%,0.595,0.921,-55.07%,0.277,51.0%,1.109,-2.492%,-3.511%
+pred_lgb_technical,-5.05%,21.04%,-0.240,-0.389,-65.06%,-0.078,47.7%,0.960,-2.071%,-2.800%
+pred_lgb_combined,54.64%,27.96%,1.954,3.078,-35.33%,1.546,55.9%,1.394,-2.548%,-3.613%
+pred_ensemble,32.22%,27.61%,1.167,1.876,-47.63%,0.676,52.7%,1.216,-2.728%,-3.519%

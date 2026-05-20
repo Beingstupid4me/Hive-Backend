@@ -1,0 +1,252 @@
+{
+  "1": {
+    "lgb_momentum": {
+      "n_estimators": 1071,
+      "learning_rate": 0.007738861832281171,
+      "max_depth": 3,
+      "num_leaves": 133,
+      "min_child_samples": 94,
+      "subsample": 0.9740139327174697,
+      "colsample_bytree": 0.8545516538147451,
+      "reg_alpha": 1.9876683155964158e-08,
+      "reg_lambda": 0.0006590250222449797,
+      "min_split_gain": 0.25284384930771114
+    },
+    "lgb_volatility": {
+      "n_estimators": 805,
+      "learning_rate": 0.019069310048233153,
+      "max_depth": 8,
+      "num_leaves": 244,
+      "min_child_samples": 63,
+      "subsample": 0.5848714769703888,
+      "colsample_bytree": 0.8412998777008153,
+      "reg_alpha": 4.2309396940726485,
+      "reg_lambda": 6.401750186155768e-08,
+      "min_split_gain": 0.40767034338669306
+    },
+    "lgb_technical": {
+      "n_estimators": 1620,
+      "learning_rate": 0.20032367906612378,
+      "max_depth": 8,
+      "num_leaves": 182,
+      "min_child_samples": 22,
+      "subsample": 0.5984842434523204,
+      "colsample_bytree": 0.9878851853696569,
+      "reg_alpha": 4.140642572624684e-08,
+      "reg_lambda": 0.0004116714040734952,
+      "min_split_gain": 0.36120077265664635
+    },
+    "lgb_combined": {
+      "n_estimators": 1564,
+      "learning_rate": 0.11468405356093796,
+      "max_depth": 10,
+      "num_leaves": 15,
+      "min_child_samples": 94,
+      "subsample": 0.8344879842688664,
+      "colsample_bytree": 0.42422618273577695,
+      "reg_alpha": 6.325402406781354e-06,
+      "reg_lambda": 0.0013006465032624674,
+      "min_split_gain": 0.2773857729004129
+    }
+  },
+  "2": {
+    "lgb_momentum": {
+      "n_estimators": 1913,
+      "learning_rate": 0.0452131859193192,
+      "max_depth": 11,
+      "num_leaves": 243,
+      "min_child_samples": 51,
+      "subsample": 0.8037731444133926,
+      "colsample_bytree": 0.6171011305044879,
+      "reg_alpha": 1.5158256998929378e-05,
+      "reg_lambda": 5.808271875256886,
+      "min_split_gain": 0.4398481219122557
+    },
+    "lgb_volatility": {
+      "n_estimators": 267,
+      "learning_rate": 0.09925513477219777,
+      "max_depth": 11,
+      "num_leaves": 100,
+      "min_child_samples": 39,
+      "subsample": 0.8089546013555268,
+      "colsample_bytree": 0.6161439282046807,
+      "reg_alpha": 0.02529104921129098,
+      "reg_lambda": 0.00019720868599058168,
+      "min_split_gain": 0.2295391027776934
+    },
+    "lgb_technical": {
+      "n_estimators": 553,
+      "learning_rate": 0.15344292784833682,
+      "max_depth": 6,
+      "num_leaves": 142,
+      "min_child_samples": 64,
+      "subsample": 0.7623431445242816,
+      "colsample_bytree": 0.6245600202790426,
+      "reg_alpha": 2.1383155598649777e-05,
+      "reg_lambda": 1.921876247865941e-06,
+      "min_split_gain": 0.4524849926804332
+    },
+    "lgb_combined": {
+      "n_estimators": 1584,
+      "learning_rate": 0.0746306225620063,
+      "max_depth": 3,
+      "num_leaves": 32,
+      "min_child_samples": 22,
+      "subsample": 0.5079925924297429,
+      "colsample_bytree": 0.8454850890217052,
+      "reg_alpha": 1.2097705111391244,
+      "reg_lambda": 0.03583240625388112,
+      "min_split_gain": 0.3142541642352558
+    }
+  },
+  "3": {
+    "lgb_momentum": {
+      "n_estimators": 1518,
+      "learning_rate": 0.16238007380889674,
+      "max_depth": 9,
+      "num_leaves": 131,
+      "min_child_samples": 55,
+      "subsample": 0.634868244071269,
+      "colsample_bytree": 0.811654036509301,
+      "reg_alpha": 2.7580723343113125e-07,
+      "reg_lambda": 1.968399147668317e-08,
+      "min_split_gain": 0.44723336457614254
+    },
+    "lgb_volatility": {
+      "n_estimators": 596,
+      "learning_rate": 0.0073812719288437354,
+      "max_depth": 8,
+      "num_leaves": 246,
+      "min_child_samples": 13,
+      "subsample": 0.9281233672874186,
+      "colsample_bytree": 0.551565004332561,
+      "reg_alpha": 3.998168433385343e-08,
+      "reg_lambda": 3.488656515308148,
+      "min_split_gain": 0.25007417421324885
+    },
+    "lgb_technical": {
+      "n_estimators": 886,
+      "learning_rate": 0.019200426473630246,
+      "max_depth": 5,
+      "num_leaves": 121,
+      "min_child_samples": 96,
+      "subsample": 0.5341966505435829,
+      "colsample_bytree": 0.3255026685355683,
+      "reg_alpha": 0.022138943139377892,
+      "reg_lambda": 2.3791320541686322e-08,
+      "min_split_gain": 0.060190491185173806
+    },
+    "lgb_combined": {
+      "n_estimators": 351,
+      "learning_rate": 0.18791535348035385,
+      "max_depth": 12,
+      "num_leaves": 200,
+      "min_child_samples": 92,
+      "subsample": 0.5995278344273439,
+      "colsample_bytree": 0.5014020572414964,
+      "reg_alpha": 0.5169981264939315,
+      "reg_lambda": 0.6110393815559041,
+      "min_split_gain": 0.1799311912520442
+    }
+  },
+  "4": {
+    "lgb_momentum": {
+      "n_estimators": 335,
+      "learning_rate": 0.29832034865670337,
+      "max_depth": 4,
+      "num_leaves": 141,
+      "min_child_samples": 12,
+      "subsample": 0.9483660126258157,
+      "colsample_bytree": 0.7018422680855436,
+      "reg_alpha": 5.614335871371781,
+      "reg_lambda": 0.0013947671644383983,
+      "min_split_gain": 0.4421876803191355
+    },
+    "lgb_volatility": {
+      "n_estimators": 737,
+      "learning_rate": 0.07010628198286545,
+      "max_depth": 3,
+      "num_leaves": 234,
+      "min_child_samples": 30,
+      "subsample": 0.6382689687360881,
+      "colsample_bytree": 0.3376523440400971,
+      "reg_alpha": 9.634387448671902,
+      "reg_lambda": 8.954097244184222e-08,
+      "min_split_gain": 0.4633223249414261
+    },
+    "lgb_technical": {
+      "n_estimators": 1410,
+      "learning_rate": 0.29948088734502826,
+      "max_depth": 5,
+      "num_leaves": 237,
+      "min_child_samples": 36,
+      "subsample": 0.5315646928805715,
+      "colsample_bytree": 0.3842316304672773,
+      "reg_alpha": 2.100692993872321e-06,
+      "reg_lambda": 0.00473035361766171,
+      "min_split_gain": 0.303801957561276
+    },
+    "lgb_combined": {
+      "n_estimators": 488,
+      "learning_rate": 0.0145088949469567,
+      "max_depth": 3,
+      "num_leaves": 28,
+      "min_child_samples": 66,
+      "subsample": 0.524220373232014,
+      "colsample_bytree": 0.3095033794489165,
+      "reg_alpha": 1.89478439411176,
+      "reg_lambda": 0.15531545469381183,
+      "min_split_gain": 0.21109168590411645
+    }
+  },
+  "5": {
+    "lgb_momentum": {
+      "n_estimators": 647,
+      "learning_rate": 0.26893568484715374,
+      "max_depth": 3,
+      "num_leaves": 178,
+      "min_child_samples": 82,
+      "subsample": 0.6315955357665022,
+      "colsample_bytree": 0.7556296716993846,
+      "reg_alpha": 7.472203923215205e-08,
+      "reg_lambda": 0.00026227014687528764,
+      "min_split_gain": 0.33676521846865315
+    },
+    "lgb_volatility": {
+      "n_estimators": 484,
+      "learning_rate": 0.25662234233388675,
+      "max_depth": 3,
+      "num_leaves": 66,
+      "min_child_samples": 37,
+      "subsample": 0.7251246068212116,
+      "colsample_bytree": 0.58723812387664,
+      "reg_alpha": 1.361869293105777e-07,
+      "reg_lambda": 6.357249376041566e-08,
+      "min_split_gain": 0.29624971186550525
+    },
+    "lgb_technical": {
+      "n_estimators": 1126,
+      "learning_rate": 0.03410449747964693,
+      "max_depth": 12,
+      "num_leaves": 241,
+      "min_child_samples": 61,
+      "subsample": 0.958580222521802,
+      "colsample_bytree": 0.5865088134403691,
+      "reg_alpha": 0.06920335917917167,
+      "reg_lambda": 1.6841568439854195,
+      "min_split_gain": 0.269079685071879
+    },
+    "lgb_combined": {
+      "n_estimators": 1873,
+      "learning_rate": 0.22580261505345928,
+      "max_depth": 3,
+      "num_leaves": 44,
+      "min_child_samples": 48,
+      "subsample": 0.8080857329368357,
+      "colsample_bytree": 0.39308510008647657,
+      "reg_alpha": 0.014132833393965068,
+      "reg_lambda": 3.940221762318085e-07,
+      "min_split_gain": 0.3490473637482513
+    }
+  }
+}
